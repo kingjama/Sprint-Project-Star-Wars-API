@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .navbar {
+    text-align: center;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  h2 {
+    font-size: 40px;
+    border-top: 7px solid black;
+    border-left: 7px solid black;
+    border-right: 7px solid black;
+    border-bottom: 7px solid black;
+  
+  padding-bottom: 10px;
+    padding-top: 10px;
+  
+  }
+  
